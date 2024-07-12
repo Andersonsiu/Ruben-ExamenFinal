@@ -1,4 +1,4 @@
-##SALIDAS DEL EJERCICIO 2 :
+# SALIDAS DEL EJERCICIO 2 :
 
 (tutorial-env) anderson@anderson-IdeaPad-Flex-5-14ABR8:~/Escritorio/ExamFinal-C8286$ python3 ejercicio2.py 
 Ejecutando Raft:
@@ -20,7 +20,7 @@ Traceback (most recent call last):
 NameError: name 'nodes' is not defined. Did you mean: 'node'?
 
 
-##SALIDAS DEL EJERCICIO 3 :
+# SALIDAS DEL EJERCICIO 3 :
 
 (tutorial-env) anderson@anderson-IdeaPad-Flex-5-14ABR8:~/Escritorio/ExamFinal-C8286$ python3 ejercicio3.py 
 Ejecutando Raft:
@@ -43,7 +43,7 @@ Asignado obj1 en: 0
 Recoleccion de basura completa
 
 
-##SALIDAS DEL EJERCICIO 4 :
+# SALIDAS DEL EJERCICIO 4 :
 
 (tutorial-env) anderson@anderson-IdeaPad-Flex-5-14ABR8:~/Escritorio/ExamFinal-C8286$ python3 ejercicio4.py 
 Node 0 read key0: value0
